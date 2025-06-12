@@ -1,8 +1,8 @@
-# 📘 Cadastro de Alunos
+#  Cadastro de Alunos
 
 Projeto em Java com interface gráfica (Swing) e banco de dados MySQL, desenvolvido para realizar o cadastro, listagem, atualização e remoção de alunos.
 
-## 🧰 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Java 17+**
 - **Swing (GUI)**
@@ -11,19 +11,19 @@ Projeto em Java com interface gráfica (Swing) e banco de dados MySQL, desenvolv
 - **IntelliJ IDEA**
 - **Maven (gerenciador de dependências)**
 
-## 📦 Funcionalidades
+##  Funcionalidades
 
-- ✅ Cadastro de alunos com:
+-  Cadastro de alunos com:
   - Nome
   - Matrícula
   - Curso
   - Email
 
-- ✅ Listagem dos alunos cadastrados  
-- ✅ Atualização de informações  
-- ✅ Remoção de alunos
+-  Listagem dos alunos cadastrados  
+-  Atualização de informações  
+-  Remoção de alunos
 
-## 🛠️ Configuração do ambiente
+##  Configuração do ambiente
 
 ### 1. Clonar o repositório
 
@@ -63,7 +63,7 @@ String password = "sua_senha";
 
 Abra o projeto no IntelliJ e execute a classe `Main.java`. A interface será exibida com as opções de cadastro e gerenciamento de alunos.
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 src/
@@ -78,6 +78,6 @@ src/
 └── Main.java
 ```
 
-## 👤 Autor
+##  Autor
 
-- [Kaike Rosa](https://github.com/KaikeRosa)
+- Kaike Hariel Rosa
