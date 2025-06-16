@@ -28,8 +28,8 @@ Projeto em Java com interface gráfica (Swing) e banco de dados MySQL, desenvolv
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/KaikeRosa/cadastro-alunos.git
-cd cadastro-alunos
+git clone https://github.com/KaikeRosa/Trabalho-Crud.git
+cd Trabalho-Crud
 ```
 
 ### 2. Criar o banco de dados no MySQL
